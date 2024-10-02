@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.player-music {
+  background-color: #0f172a !important;
+  height: 6rem;
+  color: white !important;
+}
+.rhap_time  {
+  color: #fff !important;
+}
+::selection {
+  background-color: transparent;
+  color: #61dafb;
+}
