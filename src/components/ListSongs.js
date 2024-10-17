@@ -14,7 +14,7 @@ const ListSongs = () => {
   return (
     <div className="col-span-2 overflow-y-scroll">
       <table className="table-auto w-full">
-        <thead className="text-slate-600 h-12">
+        <thead className="text-slate-600 h-12 sticky top-0 bg-white">
           <tr>
             <th className="w-[10%]"></th>
             <th className="text-left">Song</th>
